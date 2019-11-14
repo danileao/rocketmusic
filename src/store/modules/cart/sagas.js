@@ -9,6 +9,7 @@ import {
   addToCartSuccess,
   updateAmountSuccess,
   finishSuccess,
+  logoutSuccess,
 } from "./actions";
 
 function* addToCart({ id }) {
@@ -64,8 +65,15 @@ function* finish() {
   yield put(finishSuccess());
 }
 
+function* logout() {
+  localStorage.removeItem("@rocketMusic/token");
+  yield put(logoutSuccess());
+  history.go("/login");
+}
+
 export default all([
   takeLatest("@cart/ADD_REQUEST", addToCart),
   takeLatest("@cart/UPDATE_AMOUNT_REQUEST", updateAmount),
   takeLatest("@cart/FINISH_REQUEST", finish),
+  takeLatest("@cart/LOGOUT_REQUEST", logout),
 ]);

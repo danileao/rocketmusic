@@ -36,3 +36,20 @@ export const Cart = styled(Link)`
     }
   }
 `;
+
+export const Right = styled.div`
+  > span {
+    color: #fff;
+  }
+`;
+
+export const Logout = styled.div`
+  button {
+    border: none;
+    background: none;
+
+    &:hover {
+      opacity: 0.7;
+    }
+  }
+`;

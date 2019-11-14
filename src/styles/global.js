@@ -17,6 +17,10 @@ export default createGlobalStyle`
         -webkit-font-smoothing: antialiased;
     }
 
+    html, body, #root {
+        height: 100%
+    }
+
     body, input, button {
         font: 14px Roboto, sans-serif;
     }

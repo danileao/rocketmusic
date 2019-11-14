@@ -44,3 +44,13 @@ export function finishSuccess() {
     type: "@cart/FINISH_SUCCESS",
   };
 }
+export function logoutRequest() {
+  return {
+    type: "@cart/LOGOUT_REQUEST",
+  };
+}
+export function logoutSuccess() {
+  return {
+    type: "@cart/LOGOUT_SUCCESS",
+  };
+}
