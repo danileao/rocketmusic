@@ -1,0 +1,66 @@
+{
+    "stock": [
+        {
+            "id": 1,
+            "amount": 3
+        },
+        {
+            "id": 2,
+            "amount": 5
+        },
+        {
+            "id": 3,
+            "amount": 2
+        },
+        {
+            "id": 4,
+            "amount": 1
+        },
+        {
+            "id": 5,
+            "amount": 5
+        },
+        {
+            "id": 6,
+            "amount": 10
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "Guitarra Yamaha RGX 121 Z BL",
+            "price": 1673.00,
+            "image": "https://cdn.awsli.com.br/600x700/784/784411/produto/43936207/f21762b25f.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Controlador USB Korg Microkey2 37",
+            "price": 903.00,
+            "image": "https://cdn.awsli.com.br/600x700/784/784411/produto/33603163/controlador-usb-korg-microkey2-37-635658b3.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Cajon Inclinado FSA Standard FS 2503 com captação",
+            "price": 219.9,
+            "image": "https://cdn.awsli.com.br/600x700/784/784411/produto/33596275/cajon-inclinado-fsa-standard-fs-2503-com-captacao-63af95c1.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Bateria Eletrônica Xpro Ed100 - 2 Tons Plus - 5 Peças + 1 Surdo + 2 Pratos",
+            "price": 3700.00,
+            "image": "https://cdn.awsli.com.br/600x700/784/784411/produto/367940564cb4e7b8bf.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Contrabaixo Ativo 5C Sterling by Music Man S.U.B. Ray 5",
+            "price": 3920.00,
+            "image": "https://cdn.awsli.com.br/600x700/784/784411/produto/33599608/contrabaixo-ativo-5c-sterling-by-music-man-s-u-b-ray-5-38179d8d.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Violão Mini Jumbo Di Giorgio Iron Black",
+            "price": 708.9,
+            "image": "https://cdn.awsli.com.br/600x700/784/784411/produto/33599004/c54977f34d.jpg"
+        }
+    ]
+}
