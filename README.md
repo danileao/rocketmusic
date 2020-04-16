@@ -12,8 +12,8 @@
 
 # Indice
 
-- [Sobre](#🔖-sobre)
-- [Tecnologias Utilizadas](#🚀-tecnologias-utilizadas)
+- [Sobre](#sobre)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como baixar o projeto](#🗂-Como-baixar-o-projeto)
 
 ## 🔖 Sobre
