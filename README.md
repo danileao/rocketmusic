@@ -1,68 +1,56 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+ <img src="https://ik.imagekit.io/kudysak8uv/logo2_wkzFleEF6.png">
+</h1>
 
-## Available Scripts
+<h1>
+    <img src="public/apresentacao.gif">
+</h1>
 
-In the project directory, you can run:
+<h3 align="center">
+    <a href="https://rocketmusics.herokuapp.com/">Acessar demonstração</a>
+</h3>
 
-### `yarn start`
+# Indice
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [Sobre](#🔖-Sobre)
+- [Tecnologias Utilizadas](#🚀-Tecnologias-utilizadas)
+- [Como baixar o projeto](#🗂-Como-baixar-o-projeto)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## 🔖 Sobre
 
-### `yarn test`
+O projeto **RocketMusic** é um e-commerce criado dentro do curso **Bootcamp GoStack**
+com o intuito de colocarmos em prática todo o conteúdo estudado durante o curso.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h1></h1>
 
-### `yarn build`
+## 🚀 Tecnologias utilizadas
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- [ReactJS](https://reactjs.org)
+- [Redux](https://redux.org)
+- [Axios](https://github.com/axios)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h1></h1>
 
-### `yarn eject`
+## 🗂 Como baixar o projeto
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```bash
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    # Clonar o repositório
+    $ git clone https://github.com/danileao/rocketmusic
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+    #Entrar no diretório
+    $ cd rocketmusic
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+    # Instalar as dependências
+    $ yarn install
 
-## Learn More
+    #Iniciar o projeto
+    $ yarn start
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<h1></h1>
+<h3 align="center">
+Desenvolvido 💜 por Daniele Leão Evangelista
+</h3>
