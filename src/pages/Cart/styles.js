@@ -5,6 +5,7 @@ export const Container = styled.div`
   padding: 20px;
   background: #fff;
   border-radius: 5px;
+  margin-bottom: 200px;
 
   footer {
     margin-top: 30px;
